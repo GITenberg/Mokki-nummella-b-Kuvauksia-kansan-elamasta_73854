@@ -1,0 +1,25 @@
+_repo: Mokki-nummella-b-Kuvauksia-kansan-elamasta_73854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schimmel, H. J.
+    gutenberg_agent_id: '57252'
+    url: http://www.gutenberg.org/2009/agents/57252
+description: ''
+gutenberg_issued: '2024-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73854'
+language: fi
+pgterms:marc905: 20240603000209schimmel
+pgterms:marc906: '1892'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aJyväskylä :$bJyväskylän Kirjapaino, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mökki nummella : $b Kuvauksia kansan elämästä'
+url: http://www.gutenberg.org/ebooks/73854
