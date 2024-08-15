@@ -1,11 +1,16 @@
 _repo: Mokki-nummella-b-Kuvauksia-kansan-elamasta_73854
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schimmel, H. J.
     gutenberg_agent_id: '57252'
     url: http://www.gutenberg.org/2009/agents/57252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73854#Mokki-nummella-b-Kuvauksia-kansan-elamasta
 gutenberg_issued: '2024-06-17'
 gutenberg_type: Text
 identifiers:
